@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){
+    printf("cand e partialul la rustrustrust???");
+    return 67;
+}
